@@ -1,16 +1,31 @@
-# React + Vite
+# 🚀 PR7-Navigator
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+PR7-Navigator is a modern React web application built using Vite for fast development and optimized production builds.
+The project serves as a foundation for building navigation-based interfaces and scalable frontend applications.
 
-Currently, two official plugins are available:
+## 🔗 Live Demo: https://pr-7-navigator.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 📌 About The Project
 
-## React Compiler
+- PR7-Navigator is developed to practice and implement:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Component-based architecture
 
-## Expanding the ESLint configuration
+- Fast development setup using Vite
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- Clean UI structure
+
+- Production deployment using Vercel
+
+- This project demonstrates how to set up and deploy a modern React application efficiently.
+
+## 🛠️ Tech Stack
+
+- React	JavaScript library for building UI
+- Vite	Fast build tool & development server
+- JavaScript (ES6+)	Core programming language
+- CSS	Styling
+- Vercel	Deployment & hosting
+
+## 📷 Preview
+![alt text](image.png)
